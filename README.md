@@ -1,7 +1,7 @@
 
-1)As a data analyst for the department of education of Hawaii, I am tasked with analyzing the national average performance on SAT & ACT tests.
+1) As a data analyst for the department of education of Hawaii, I am tasked with analyzing the national average performance on SAT & ACT tests.
 
-2)Find factors influencing scores
+2) Find factors influencing scores
 
 3) Understand Hawaii's standing when it comes to these tests
 
